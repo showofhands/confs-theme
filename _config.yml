@@ -2,7 +2,7 @@
 title: Travel Blog
 email: funtravel@gmail.com
 description: a fun blog about travelling.
-baseurl: "tavel-blog"
+baseurl: "/travel-blog"
 twitter_username: ashowofhands
 avatar: "https://pbs.twimg.com/profile_images/477656140176564224/OQ8ggAOg.jpeg" # Set footer avatar
 paginate: 3
