@@ -4,7 +4,7 @@
 
 .hero {
 	height: 335px;
-	background: url('#{$path--rel}/bg-main.jpg'),
+	background: url('#{$path--rel}/bg-main.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	margin-bottom: em(50px);
